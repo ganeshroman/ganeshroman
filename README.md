@@ -1,11 +1,10 @@
-## Hey 👋, I'm [Ganesh Roman!](https://github.com/ganeshroman/)
+## [Ganesh V Roman](https://github.com/ganeshroman/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ganesh-roman)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ganeshroman.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ganeshroman)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ganeshroman91/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
 I am Sr Software Engineer, having 7+ years of experience in IT Industry. I have completed MCA from Government College of Engineering. I want to made avail solutions to human beings and experience in IT industry.
 
@@ -187,4 +186,8 @@ Like My Work?
 
 
 
+</br>
+</br>
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
