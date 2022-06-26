@@ -92,6 +92,8 @@ Like My Work?
 
 
 
+<!--
+
 ### Projects and Dev Stuffs:
 
 <details>	
@@ -109,7 +111,7 @@ Like My Work?
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
 </details>
 
-
+-->
 
 
 
