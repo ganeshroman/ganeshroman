@@ -75,7 +75,7 @@ Like My Work?
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ganeshroman/ganeshroman/issues/2)! I am happy to help.
 - 👾 &nbsp; Keep it simple & clean.
 - 📫 &nbsp; How to reach me: ganesh.roman@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/ganeshroman/ganeshroman/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://ganeshroman.github.io/).
 
 ### My Absolute Favorites:
 
