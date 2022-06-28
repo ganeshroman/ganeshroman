@@ -11,7 +11,7 @@ I am Sr Software Engineer, having 7+ years of experience in IT Industry. I have 
 
 
 
-### Mobile Dev
+### Mobile Development
 Icon | Name | 
 :-----:|  :-----: | 
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> | Android |
