@@ -72,7 +72,7 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with Android.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ganeshroman).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/ganeshroman/ganeshroman/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/ganeshroman/ganeshroman/issues/1)! I am happy to help.
 - 👾 &nbsp; Keep it simple & clean.
 - 📫 &nbsp; How to reach me: ganesh.roman@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://ganeshroman.github.io/).
