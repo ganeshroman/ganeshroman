@@ -20,7 +20,7 @@ Icon | Name |
 ### Languages and Tools:
 
 
-<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<!--<code><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>-->
 <code> <img height="48" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="java">  </code>
 <code> <img height="30" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png?raw=true" alt="Kotlin"></code>
 <code> <img height="48" src="https://user-images.githubusercontent.com/25181517/121302773-7aa5d680-c8fa-11eb-98aa-e016fdb2de32.png" alt="InteliJ"></code>
@@ -43,7 +43,15 @@ Icon | Name |
 </code>
 
  
+### Version Control
 
+<code> <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="GIT"> </code>
+<code> <img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub"> </code>
+<code> <img height="50" src="https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png" alt="GitLab">
+</code>
+
+<code> <img height="50" src="https://user-images.githubusercontent.com/25181517/121401477-0e0df480-c959-11eb-8ec7-ef8d06584380.png" alt="BitBucket">
+</code>
 
 
 
