@@ -50,7 +50,7 @@ Icon | Name |
 ### Operating System
 
 <code> [<img height="50" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WIN.png" alt="Windows">](https://www.microsoft.com/en-in/windows?r=1) </code>
-<code> [<img height="50" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/RHT.png" alt="Red Hat">}(https://www.redhat.com/en) </code>
+<code> [<img height="50" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/RHT.png" alt="Red Hat">](https://www.redhat.com/en) </code>
 <code> [<img height="50" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAC.png" alt="MAC">](https://www.apple.com/)
 </code> <code> [<img height="50" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/UBT.png" alt="Ubuntu">](https://ubuntu.com/)
 </code>
