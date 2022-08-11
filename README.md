@@ -45,6 +45,17 @@ Icon | Name |
 </code> <code> <img height="50" src="https://user-images.githubusercontent.com/25181517/121401477-0e0df480-c959-11eb-8ec7-ef8d06584380.png" alt="BitBucket">
 </code>
 
+</br> 
+
+### Operating System
+
+<code> <img height="50" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/WIN.png" alt="Windows"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/RHT.png" alt="Red Hat"> </code>
+<code> <img height="50" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/MAC.png" alt="MAC">
+</code> <code> <img height="50" src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/UBT.png" alt="Ubuntu">
+</code>
+
+
 </br>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
