@@ -84,12 +84,12 @@ Icon | Name |
 <a href="https://ganeshroman.github.com/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshroman&layout=compact" />
 </a>
+
 <a href="https://ganeshroman.github.com/">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=ganeshroman&count_private=false&border_color=2e4058&include_all_commits=true&bg_color=30,ffffff,efefef&title_color=000&text_color=000&show_icons=true&hide_rank=false" />
 </a>
+
 <p>
-
-
 
 
 </p>
@@ -109,6 +109,8 @@ Icon | Name |
 </br>
 </br>
 </br>
+
+
 <p >
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ganeshroman&style=flat-square&color=0088cc)
