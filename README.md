@@ -83,7 +83,7 @@ Icon | Name |
 <p>
 
 <a href="https://ganeshroman.github.com/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshroman" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshroman&layout=compact" />
 </a>
 
 <a href="https://ganeshroman.github.com/">
