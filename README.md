@@ -76,6 +76,17 @@ Icon | Name |
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
+
+</br>
+</br>
+
+<p>
+  
+  [![Ganesh Roman's github stats](https://github-readme-stats.vercel.app/api?username=ganeshroman&count_private=false&border_color=2e4058&include_all_commits=true&bg_color=30,ffffff,efefef&title_color=000&text_color=000&show_icons=true&hide_rank=false)](https://ganeshroman.github.com/)
+  </p>
+
+
+
 </br>
 </br>
 
