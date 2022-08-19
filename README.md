@@ -79,6 +79,8 @@ Icon | Name |
 
 ### [My Latest Blogs](https://ganeshroman.github.io/blogs/technical-tutorial/index.html#0)
 
+### [My Blogs on Medium](https://medium.com/@ganesh.roman.blogs)
+
 </br>
 </br>
 
