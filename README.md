@@ -76,9 +76,9 @@ Icon | Name |
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, Meetups & Tech Events.
 
-
+<!--
 ### [My Latest Blogs](https://ganeshroman.github.io/blogs/technical-tutorial/index.html#0)
-
+-->
 ### [My Blogs on Medium](https://medium.com/@ganesh.roman.blogs)
 
 </br>
