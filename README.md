@@ -68,7 +68,7 @@ Icon | Name |
 - 💬 &nbsp; Ask me about anything [here](https://github.com/ganeshroman/ganeshroman/issues/1)! I am happy to help.
 - 👾 &nbsp; Keep it simple & clean.
 - 📫 &nbsp; How to reach me: ganesh.roman.edu@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://raw.githubusercontent.com/ganeshroman/trash/master/_Android%20GaneshRoman.docx.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://raw.githubusercontent.com/ganeshroman/trash/master/Android%20GaneshVRoman.pdf).
 
 ### My Absolute Favorites:
 
