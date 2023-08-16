@@ -85,11 +85,12 @@ Icon | Name |
 </br>
 
 
-
+<!--
 <p>
 <a href="https://ganeshroman.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshroman&layout=compact" />
 </a>
+-->
 </br>
 </br>
 
